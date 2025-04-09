@@ -75,4 +75,10 @@ X_tfidf = tfidf_vectorizer.fit_transform(documents)
 print("\nTF-IDF features:")
 print(tfidf_vectorizer.get_feature_names_out())  # 输出特征词汇
 ```
+## 运行结果
+![屏幕截图 2025-04-09 193121](https://github.com/Luuu13/natural-language-processing/blob/master/image/test%204-1.png)
 ## 样本平衡处理
+![屏幕截图 2025-04-09 193121](https://github.com/Luuu13/natural-language-processing/blob/master/image/test%204-2.png)
+## 增加模型评估指标
+![屏幕截图 2025-04-09 193121](https://github.com/Luuu13/natural-language-processing/blob/master/image/test%204-3.png)
+

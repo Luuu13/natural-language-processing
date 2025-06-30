@@ -37,3 +37,9 @@
 ### 我最喜欢的一场比赛德班世乒赛女单决赛
 > 那是我第一个三大赛冠军
 <img src="https://sport.hebei.gov.cn/uploads/image/20230528/1685283856989214.jpg" width="400">
+
+##### 我最喜欢的环境工具是minicond
+<img src="https://github.com/Luuu13/natural-language-processing/blob/master/屏幕截图%202025-06-28%20211353.png"  width = "800" />
+
+##### 我可以在IDE上使用我建立的虚拟环境
+<img src="https://github.com/Luuu13/natural-language-processing/blob/master/image/test1.png" width = "800" />
